@@ -18,11 +18,9 @@
     <p>To use this project, follow these steps:</p>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/your_username/DSPipeline-Jupyter-Pandas-FastAPI.git</code></pre>
+        <pre><code>git clone https://github.com/MananChandna/DSPipeline-Jupyter-Pandas-FastAPI.git</code></pre>
         <li>Navigate to the project directory:</li>
         <pre><code>cd DSPipeline-Jupyter-Pandas-FastAPI</code></pre>
-        <li>Install the required dependencies:</li>
-        <pre><code>pip install -r requirements.txt</code></pre>
         <li>Start Jupyter notebooks:</li>
         <pre><code>jupyter notebook</code></pre>
         <li>Explore the notebooks for data processing and analysis.</li>
@@ -34,6 +32,6 @@
     <p>If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.</p>
     
   <h2>Contact</h2>
-    <p>If you have any questions or suggestions regarding this project, feel free to contact me at chandnamanan2004@gmail.com.</p>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
 </body>
 </html>
