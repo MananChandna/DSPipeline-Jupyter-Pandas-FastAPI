@@ -1,5 +1,5 @@
 # DSPipeline-Jupyter-Pandas-FastAPI
-![image](https://github.com/MananChandna/DSPipeline-Jupyter-Pandas-FastAPI/assets/139998502/617edc37-4550-4e8d-a90e-d37c46a99b52)
+![image](https://github.com/MananChandna/DSPipeline-Jupyter-Pandas-FastAPI/assets/139998502/c08da172-99d9-4b4a-85bc-cb317c8bdf1f)
 
 <!DOCTYPE html>
 <html lang="en">
